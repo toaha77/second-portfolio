@@ -1,0 +1,27 @@
+.nav-bar{
+    background-image: url('/images/banner/banner1.png');
+    width: 1320px;
+    height: 808px;
+
+}
+.container{
+    color: #151414;
+text-align: left;
+
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: -590px;
+width: 525px;
+height: 228px;
+margin-left: 780px;
+/* text-align: center; */
+}
+.btn-primary{
+    border-radius: 5px;
+    background: #F15B22;
+    width: 160px;
+height: 64px;
+
+}
